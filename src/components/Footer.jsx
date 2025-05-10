@@ -18,7 +18,7 @@ const Footer = () => {
             near you.
           </p>
           <p className="font-semibold text-gray text-xs">
-            Or call 000800-040-1966
+            Or contact @Mainak Kundu
           </p>
         </div>
 
